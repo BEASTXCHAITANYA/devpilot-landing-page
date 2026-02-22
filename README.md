@@ -77,13 +77,13 @@ Constraints followed:
 
 ## 🌐 Live Website
 
-https://github.com/BEASTXCHAITANYA/devpilot-landing-page.git
+https://beastxchaitanya.github.io/devpilot-landing-page/
 
 
 
 
 
----
+
 
 ## 📂 GitHub Repository
 
