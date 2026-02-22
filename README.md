@@ -95,14 +95,3 @@ https://github.com/BEASTXCHAITANYA/devpilot-landing-page.git
 
 ---
 
-## 🚀 How to Run Locally
-
-1. Clone the repository
-2. Open project folder
-3. Run index.html in browser
-
----
-
-## 📎 Note
-
-This project was created for academic assignment purposes and is inspired by the UI design principles of developer-first SaaS landing pages.
